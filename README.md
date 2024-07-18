@@ -1,2 +1,2 @@
-# LogistticRegression_InstrusionDetection
-Usage of Logistic regression for Intrustion Detection on RT-IoT2022 UCI Machine Learning Repository Dataset
+# LogisticRegression_InstrusionDetection
+Usage of Logistic Regression for Intrustion Detection on RT-IoT2022 UCI Machine Learning Repository Dataset
